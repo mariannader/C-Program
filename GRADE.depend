@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1582531547 source:c:\users\acer\desktop\grade\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1582531664 source:e:\programming\grade\main.c
+	<stdio.h>
+	<stdlib.h>
+
